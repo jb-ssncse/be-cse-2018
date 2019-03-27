@@ -52,12 +52,12 @@ Upon completion of this course, the students should be able to:
 - Apply various soft computing techniques for complex problems (K3). 
 
 ** Text Books
-1. S N Sivanandam , S N Deepa, ``Principles of Soft Computing'', Wiley India Pvt. Ltd., 2nd Edition, 2011. 
+1. S N Sivanandam , S N Deepa, ``Principles of Soft Computing'', Wiley India, 2nd Edition, 2011. 
 2. Jyh-Shing Roger Jang, Chuen-Tsai Sun, Eiji Mizutani, ``Neuro-Fuzzy and Soft Computing'', Prentice-Hall of India, 2002. 
 
 ** Reference Books:
 1. Kwang H Lee, ``First course on Fuzzy Theory and Applications'', Springer, 2005. 
 2. George J Klir and Bo Yuan, ``Fuzzy Sets and Fuzzy Logic-Theory and Applications'', Prentice Hall, 1996.
 3. James A Freeman and David M Skapura, ``Neural Networks Algorithms, Applications, and Programming Techniques'', Addison Wesley, 2003. 
-4. S Rajasekaran, G A Vijayalakshmi Pai, ``Neural Networks, Fuzzy Logic and Genetic Algorithm, Synthesis and Applications '', PHI Learning Pvt. Ltd., 2017. 
+4. S Rajasekaran, G A Vijayalakshmi Pai, ``Neural Networks, Fuzzy Logic and Genetic Algorithm, Synthesis and Applications '', PHI Learning, 2017. 
 5. N P Padhy, S P Simon, ``Soft Computing with MATLAB Programming'', Oxford University Press, 2015. 
